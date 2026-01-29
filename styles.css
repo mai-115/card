@@ -1,0 +1,47 @@
+h1{
+   margin-top: 200px;
+   margin-right: 200px;
+   margin-left: 300px;
+   font: size 100px;;
+color: rgb(224, 0, 0);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{ 
+    background-image: url(./images/White-And-Light-Pink-Background-edit-online-3.jpg);
+}
+.catimg{
+    margin-right: 200px;
+   margin-left: 300px;
+   font: size 100px; 
+}
+
+a.button1 {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: maroon;
+    background-color: buttonface;
+    text-decoration: none;
+}
+a.button2 {
+    margin-left: 100px;;
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: greenyellow;
+    background-color: buttonface;
+    text-decoration: none;
+}
+.yaycat{
+     margin-right: 200px;
+   margin-left: 300px;
+
+}
+
+@media (min-width: 320px) {}
+@media (min-width: 768px) {}
+@media (min-width: 1024px) {}
+@media (min-width: 1220px) {}
+@media (min-width: 1440px) {}
+
+
